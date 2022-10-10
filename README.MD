@@ -12,7 +12,7 @@ API-Keys are available from:
 https://hashmob.net/user/info
 
 ## Credits 
-Credits are available either by subscribing to the Hashmob patreon or bought directly through Cryptocurrencies (Ask in the [Discord](https://discord.gg/zWGsTgqWUn)). If none are available, the program will fall back to free searching.
+Credits are available either by subscribing to the Hashmob patreon or bought directly through Cryptocurrencies (Ask in the [Discord](https://hashmob.net/discord)). If none are available, the program will fall back to free searching.
 
 ## Usage
 Double click the .exe :)
