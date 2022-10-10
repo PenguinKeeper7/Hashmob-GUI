@@ -15,4 +15,5 @@ https://hashmob.net/user/info
 Credits are available either by subscribing to the Hashmob patreon or bought directly through Cryptocurrencies (Ask in the [Discord](https://hashmob.net/discord)). If none are available, the program will fall back to free searching.
 
 ## Usage
-Double click the .exe :)
+Compile through Visual studio and double click the .exe :)
+Precompiled binaries are available [here](https://hashmob.net/resources/utilities)
